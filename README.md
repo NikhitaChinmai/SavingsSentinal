@@ -1,0 +1,1 @@
+Savings Sentinel is a budgeting app that helps users track income, expenses, savings goals, and loans in one place. It features real-time updates, expense tracking, goal setting, and a loan sphere to evaluate factors like tenure and interest rates.
